@@ -1,12 +1,11 @@
-F6::
-loop, 2000
+F4::
+loop, 55555
 {
-    SendInput www.AIMWARE.NET | Premium Rage/Legit CSGO Cheat
-    Sleep 0
-    SendInput {enter}
+SendInput GET GOOD - GET SPERMAWARE GET GOOD - GET SPERMAWARE GET GOOD - GET SPERMAWARE GET GOOD - GET SPERMAWARE GET GOOD - GET SPERMAWARE GET GOOD - GET SPERMAWARE
+SendInput {enter}
+Sleep 1
 }
 return
-
-F7::
-    reload
+F5::
+reload
 return
